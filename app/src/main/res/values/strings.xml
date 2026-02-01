@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spy For Me</string>
+    <string name="description">Background monitoring service with camera and microphone access</string>
+    <string name="start_service">Start Monitoring Service</string>
+    <string name="stop_service">Stop Monitoring Service</string>
+    <string name="status_info">Service will run in background with camera and microphone access</string>
+</resources>
